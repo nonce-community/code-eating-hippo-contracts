@@ -1,3 +1,9 @@
+# Build artifacts of sample truffle
+build
+
+# IDE
+.idea/
+
 # Logs
 logs
 *.log
