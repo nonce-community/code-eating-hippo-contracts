@@ -19,7 +19,7 @@ module.exports = {
       output: 'src/index.js',
       target: 'build/contracts',
       includeOnly: [
-        'SampleContract'
+        'CodeEatingHippo'
       ], // if you don\'t configure includeOnly property, it will save all contracts
       networks: [
         1,
