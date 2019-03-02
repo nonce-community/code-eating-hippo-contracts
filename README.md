@@ -1,4 +1,4 @@
-# npm Truffle box
+# npm Truffle box [![Build Status](https://travis-ci.org/nonce-community/code-eating-hippo-contracts.svg?branch=master)](https://travis-ci.org/nonce-community/code-eating-hippo-contracts)
 
 This is a boilerplate code to make your smart contract as an [npm](https://npmjs.com) library using [`truffle-plugin-modularizer`](https://github.com/wanseob/truffle-plugin-modularizer) . It exports the json files in `build/contracts/` and creates `src/index.js`. Then you will be able to use your contracts as an instance of [`truffle-contract`](https://github.com/trufflesuite/truffle/tree/develop/packages/truffle-contract). Finally, publish them onto the npm repository, and import into your applications. 
 
